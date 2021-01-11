@@ -602,7 +602,7 @@ GEM
     rdoc (6.2.1)
     recaptcha (5.5.0)
       json
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     redis (4.2.1)
     redis-actionpack (5.1.0)
       actionpack (>= 4.0, < 7)
